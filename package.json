@@ -1,0 +1,26 @@
+{
+  "name": "ovt-plugin-xss",
+  "version": "1.0.0",
+  "description": "ovt with xss functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baijijs/ovt-plugin-xss.git"
+  },
+  "keywords": [
+    "ovt",
+    "xss"
+  ],
+  "author": "Felix liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baijijs/ovt-plugin-xss/issues"
+  },
+  "homepage": "https://github.com/baijijs/ovt-plugin-xss#readme",
+  "dependencies": {
+    "xss": "^5.2.0"
+  }
+}
