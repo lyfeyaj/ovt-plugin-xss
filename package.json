@@ -1,10 +1,10 @@
 {
   "name": "ovt-plugin-xss",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "ovt with xss functionalities",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --reporter nyan"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,11 @@
   },
   "homepage": "https://github.com/baijijs/ovt-plugin-xss#readme",
   "dependencies": {
-    "xss": "^0.2.16"
+    "xss": "^0.3.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "ovt": "^1.1.0"
   }
 }
