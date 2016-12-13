@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/baijijs/ovt-plugin-xss.git"
+    "url": "git+https://github.com/lyfeyaj/ovt-plugin-xss.git"
   },
   "keywords": [
     "ovt",
@@ -17,9 +17,9 @@
   "author": "Felix liu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/baijijs/ovt-plugin-xss/issues"
+    "url": "https://github.com/lyfeyaj/ovt-plugin-xss/issues"
   },
-  "homepage": "https://github.com/baijijs/ovt-plugin-xss#readme",
+  "homepage": "https://github.com/lyfeyaj/ovt-plugin-xss#readme",
   "dependencies": {
     "xss": "^0.3.2"
   },
