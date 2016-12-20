@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/lyfeyaj/ovt-plugin-xss#readme",
   "dependencies": {
-    "xss": "^0.3.2"
+    "xss": "^0.3.3"
   },
   "devDependencies": {
     "chai": "^3.5.0",
