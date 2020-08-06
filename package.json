@@ -1,6 +1,6 @@
 {
   "name": "ovt-plugin-xss",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "ovt with xss functionalities",
   "main": "index.js",
   "scripts": {
@@ -21,11 +21,11 @@
   },
   "homepage": "https://github.com/lyfeyaj/ovt-plugin-xss#readme",
   "dependencies": {
-    "xss": "^1.0.6"
+    "xss": "^1.0.8"
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^5.2.0",
-    "ovt": "^1.1.15"
+    "mocha": "^8.1.1",
+    "ovt": "^1.1.19"
   }
 }
